@@ -1,22 +1,13 @@
 module.exports = {
   title: 'Drill4J',
-  tagline: 'The tagline of my site',
-  url: 'https://Drill4J.github.io',
+  url: 'https://IliaSolovev.github.io.',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: '/img/logo.svg',
-  organizationName: 'Drill4J',
-  projectName: 'drill4j.github.io',
+  organizationName: 'IliaSolovev',
+  projectName: 'drill4j.github.io-test',
   themeConfig: {
-    algolia: {
-      apiKey: '6893440cddb296d0faf1399850200fc6',
-      indexName: 'drill4j',
-    },
-    gtag: {
-      trackingID: 'UA-147653671-1',
-      anonymizeIP: true,
-    },
     colorMode: {
       defaultMode: 'light',
       disableSwitch: true,
