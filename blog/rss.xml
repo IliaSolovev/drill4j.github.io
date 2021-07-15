@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Drill4J Blog</title>
-        <link>https://IliaSolovev.github.io./blog</link>
+        <link>https://iliasolovev.github.io/blog</link>
         <description>Drill4J Blog</description>
         <lastBuildDate>Sun, 25 Oct 2015 23:29:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
