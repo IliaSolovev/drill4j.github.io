@@ -1,12 +1,13 @@
 module.exports = {
   title: 'Drill4J',
-  url: 'https://IliaSolovev.github.io.',
+  url: 'https://IliaSolovev.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: '/img/logo.svg',
   organizationName: 'IliaSolovev',
-  projectName: 'drill4j.github.io-test',
+  projectName: 'drill4j.github.io',
+  noIndex: true,
   themeConfig: {
     colorMode: {
       defaultMode: 'light',
